@@ -1,5 +1,7 @@
 # DynamoDB to ElasticSearch
 
+I am going to modify this source code from python to node.js
+
 This package allow you to easily ZIP a Lambda function and start processing DynamoDB Streams in order to index your DynamoDB objects in ElasticSearch.
 
 It processed the following events:
